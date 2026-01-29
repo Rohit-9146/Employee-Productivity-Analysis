@@ -1,0 +1,21 @@
+Employee_ID,Department,Role,Experience_Years,Working_Hours,Attendance_Rate,Tasks_Completed,Performance_Score,Overtime_Hours,Salary
+E001,IT,Software Engineer,2,8,95,120,8,10,35000
+E002,IT,Software Engineer,5,9,92,140,9,18,55000
+E003,HR,HR Executive,3,7.5,90,100,7,5,30000
+E004,HR,HR Manager,8,8,96,130,9,12,60000
+E005,Sales,Sales Executive,1,8.5,85,110,6,20,28000
+E006,Sales,Sales Manager,6,9,88,150,8,25,65000
+E007,Finance,Accountant,4,8,94,125,8,8,45000
+E008,Finance,Senior Accountant,10,8.5,97,145,9,15,75000
+E009,Operations,Operations Executive,2,7,89,105,7,6,32000
+E010,Operations,Operations Manager,7,8.5,93,135,8,14,62000
+E011,IT,Data Analyst,3,8,91,128,8,9,48000
+E012,IT,Team Lead,9,9,95,155,9,20,85000
+E013,Sales,Sales Executive,2,8,87,115,7,12,30000
+E014,HR,Recruiter,4,7.5,92,118,8,7,38000
+E015,Finance,Finance Analyst,5,8.5,94,132,8,10,52000
+E016,Operations,Supervisor,6,8,90,125,7,11,50000
+E017,IT,Intern,0.5,6,88,90,6,2,15000
+E018,Sales,Intern,0.7,6.5,85,95,6,3,16000
+E019,HR,Intern,1,6,89,98,6,2,18000
+E020,Finance,Intern,1.2,6.5,90,100,7,4,20000
